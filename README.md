@@ -1,2 +1,2 @@
 # hello_world
-short description
+Hi! I'm Jessica.
